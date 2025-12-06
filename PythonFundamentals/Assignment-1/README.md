@@ -20,9 +20,9 @@ This assignment contains 10 questions that demonstrate core Python programming s
 ## 🚀 How to Run
 
 1. Make sure you have Python 3 installed on your system
-2. Navigate to the assignment directory:
+2. Navigate to this directory:
    ```bash
-   cd "PythonFundamentals/Assignment-1"
+   cd PythonFundamentals/Assignment-1
    ```
 3. Run the Python script:
    ```bash
