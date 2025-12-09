@@ -11,8 +11,12 @@ This course is designed to provide comprehensive learning in Artificial Intellig
 ```
 Prime AI:ML Learning/
 ├── PythonFundamentals/
-│   └── Assignment-1/
-│       └── Assignment-1.py
+│   ├── Assignment-1/
+│   │   ├── Assignment-1.py
+│   │   └── README.md
+│   └── Assignment-2/
+│       ├── Assignment-2.py
+│       └── README.md
 └── README.md
 ```
 
@@ -35,6 +39,14 @@ This module covers the basics of Python programming, including:
   - Type conversions
   - Mathematical calculations (temperature conversion, circle area, simple interest, etc.)
 
+- **[Assignment 2](./PythonFundamentals/Assignment-2/)** - Control structures and functions
+  - Conditional statements (if-elif-else)
+  - While and for loops
+  - Function definition and usage
+  - Prime number checking
+  - Calculator implementation
+  - Number guessing game
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -54,6 +66,8 @@ This module covers the basics of Python programming, including:
 2. Navigate to any assignment directory:
    ```bash
    cd PythonFundamentals/Assignment-1
+   # or
+   cd PythonFundamentals/Assignment-2
    ```
 
 3. Run the Python scripts:
